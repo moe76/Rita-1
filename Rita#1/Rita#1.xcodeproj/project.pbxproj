@@ -7,64 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4CC565361E1928A200268C2D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC565351E1928A200268C2D /* AppDelegate.swift */; };
-		4CC565381E1928A200268C2D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC565371E1928A200268C2D /* ViewController.swift */; };
-		4CC5653B1E1928A200268C2D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CC565391E1928A200268C2D /* Main.storyboard */; };
-		4CC5653D1E1928A200268C2D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4CC5653C1E1928A200268C2D /* Assets.xcassets */; };
-		4CC565401E1928A200268C2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CC5653E1E1928A200268C2D /* LaunchScreen.storyboard */; };
-		4CC5654B1E1928A200268C2D /* Rita_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC5654A1E1928A200268C2D /* Rita_1Tests.swift */; };
-		4CC565561E1928A300268C2D /* Rita_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC565551E1928A300268C2D /* Rita_1UITests.swift */; };
+		4CC565701E1929B000268C2D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC5656F1E1929B000268C2D /* AppDelegate.swift */; };
+		4CC565721E1929B000268C2D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC565711E1929B000268C2D /* ViewController.swift */; };
+		4CC565751E1929B000268C2D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CC565731E1929B000268C2D /* Main.storyboard */; };
+		4CC565771E1929B000268C2D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4CC565761E1929B000268C2D /* Assets.xcassets */; };
+		4CC5657A1E1929B000268C2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CC565781E1929B000268C2D /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		4CC565471E1928A200268C2D /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 4CC5652A1E1928A200268C2D /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 4CC565311E1928A200268C2D;
-			remoteInfo = "Rita#1";
-		};
-		4CC565521E1928A200268C2D /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 4CC5652A1E1928A200268C2D /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 4CC565311E1928A200268C2D;
-			remoteInfo = "Rita#1";
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		4CC565321E1928A200268C2D /* Rita#1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rita#1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4CC565351E1928A200268C2D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4CC565371E1928A200268C2D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		4CC5653A1E1928A200268C2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4CC5653C1E1928A200268C2D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4CC5653F1E1928A200268C2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4CC565411E1928A200268C2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4CC565461E1928A200268C2D /* Rita#1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Rita#1Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4CC5654A1E1928A200268C2D /* Rita_1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rita_1Tests.swift; sourceTree = "<group>"; };
-		4CC5654C1E1928A200268C2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4CC565511E1928A200268C2D /* Rita#1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Rita#1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4CC565551E1928A300268C2D /* Rita_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rita_1UITests.swift; sourceTree = "<group>"; };
-		4CC565571E1928A300268C2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4CC5656C1E1929B000268C2D /* Rita#1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rita#1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4CC5656F1E1929B000268C2D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4CC565711E1929B000268C2D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4CC565741E1929B000268C2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4CC565761E1929B000268C2D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4CC565791E1929B000268C2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4CC5657B1E1929B000268C2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4CC5652F1E1928A200268C2D /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4CC565431E1928A200268C2D /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4CC5654E1E1928A200268C2D /* Frameworks */ = {
+		4CC565691E1929B000268C2D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -74,67 +35,45 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4CC565291E1928A200268C2D = {
+		4CC565631E1929B000268C2D = {
 			isa = PBXGroup;
 			children = (
-				4CC565341E1928A200268C2D /* Rita#1 */,
-				4CC565491E1928A200268C2D /* Rita#1Tests */,
-				4CC565541E1928A300268C2D /* Rita#1UITests */,
-				4CC565331E1928A200268C2D /* Products */,
+				4CC5656E1E1929B000268C2D /* Rita#1 */,
+				4CC5656D1E1929B000268C2D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4CC565331E1928A200268C2D /* Products */ = {
+		4CC5656D1E1929B000268C2D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4CC565321E1928A200268C2D /* Rita#1.app */,
-				4CC565461E1928A200268C2D /* Rita#1Tests.xctest */,
-				4CC565511E1928A200268C2D /* Rita#1UITests.xctest */,
+				4CC5656C1E1929B000268C2D /* Rita#1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4CC565341E1928A200268C2D /* Rita#1 */ = {
+		4CC5656E1E1929B000268C2D /* Rita#1 */ = {
 			isa = PBXGroup;
 			children = (
-				4CC565351E1928A200268C2D /* AppDelegate.swift */,
-				4CC565371E1928A200268C2D /* ViewController.swift */,
-				4CC565391E1928A200268C2D /* Main.storyboard */,
-				4CC5653C1E1928A200268C2D /* Assets.xcassets */,
-				4CC5653E1E1928A200268C2D /* LaunchScreen.storyboard */,
-				4CC565411E1928A200268C2D /* Info.plist */,
+				4CC5656F1E1929B000268C2D /* AppDelegate.swift */,
+				4CC565711E1929B000268C2D /* ViewController.swift */,
+				4CC565731E1929B000268C2D /* Main.storyboard */,
+				4CC565761E1929B000268C2D /* Assets.xcassets */,
+				4CC565781E1929B000268C2D /* LaunchScreen.storyboard */,
+				4CC5657B1E1929B000268C2D /* Info.plist */,
 			);
 			path = "Rita#1";
-			sourceTree = "<group>";
-		};
-		4CC565491E1928A200268C2D /* Rita#1Tests */ = {
-			isa = PBXGroup;
-			children = (
-				4CC5654A1E1928A200268C2D /* Rita_1Tests.swift */,
-				4CC5654C1E1928A200268C2D /* Info.plist */,
-			);
-			path = "Rita#1Tests";
-			sourceTree = "<group>";
-		};
-		4CC565541E1928A300268C2D /* Rita#1UITests */ = {
-			isa = PBXGroup;
-			children = (
-				4CC565551E1928A300268C2D /* Rita_1UITests.swift */,
-				4CC565571E1928A300268C2D /* Info.plist */,
-			);
-			path = "Rita#1UITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4CC565311E1928A200268C2D /* Rita#1 */ = {
+		4CC5656B1E1929B000268C2D /* Rita#1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4CC5655A1E1928A300268C2D /* Build configuration list for PBXNativeTarget "Rita#1" */;
+			buildConfigurationList = 4CC5657E1E1929B000268C2D /* Build configuration list for PBXNativeTarget "Rita#1" */;
 			buildPhases = (
-				4CC5652E1E1928A200268C2D /* Sources */,
-				4CC5652F1E1928A200268C2D /* Frameworks */,
-				4CC565301E1928A200268C2D /* Resources */,
+				4CC565681E1929B000268C2D /* Sources */,
+				4CC565691E1929B000268C2D /* Frameworks */,
+				4CC5656A1E1929B000268C2D /* Resources */,
 			);
 			buildRules = (
 			);
@@ -142,75 +81,27 @@
 			);
 			name = "Rita#1";
 			productName = "Rita#1";
-			productReference = 4CC565321E1928A200268C2D /* Rita#1.app */;
+			productReference = 4CC5656C1E1929B000268C2D /* Rita#1.app */;
 			productType = "com.apple.product-type.application";
-		};
-		4CC565451E1928A200268C2D /* Rita#1Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 4CC5655D1E1928A300268C2D /* Build configuration list for PBXNativeTarget "Rita#1Tests" */;
-			buildPhases = (
-				4CC565421E1928A200268C2D /* Sources */,
-				4CC565431E1928A200268C2D /* Frameworks */,
-				4CC565441E1928A200268C2D /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				4CC565481E1928A200268C2D /* PBXTargetDependency */,
-			);
-			name = "Rita#1Tests";
-			productName = "Rita#1Tests";
-			productReference = 4CC565461E1928A200268C2D /* Rita#1Tests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		4CC565501E1928A200268C2D /* Rita#1UITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 4CC565601E1928A300268C2D /* Build configuration list for PBXNativeTarget "Rita#1UITests" */;
-			buildPhases = (
-				4CC5654D1E1928A200268C2D /* Sources */,
-				4CC5654E1E1928A200268C2D /* Frameworks */,
-				4CC5654F1E1928A200268C2D /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				4CC565531E1928A200268C2D /* PBXTargetDependency */,
-			);
-			name = "Rita#1UITests";
-			productName = "Rita#1UITests";
-			productReference = 4CC565511E1928A200268C2D /* Rita#1UITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4CC5652A1E1928A200268C2D /* Project object */ = {
+		4CC565641E1929B000268C2D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "Michael Østergaard";
 				TargetAttributes = {
-					4CC565311E1928A200268C2D = {
+					4CC5656B1E1929B000268C2D = {
 						CreatedOnToolsVersion = 8.2;
 						DevelopmentTeam = 8RNSYLW2VB;
 						ProvisioningStyle = Automatic;
-					};
-					4CC565451E1928A200268C2D = {
-						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = 8RNSYLW2VB;
-						ProvisioningStyle = Automatic;
-						TestTargetID = 4CC565311E1928A200268C2D;
-					};
-					4CC565501E1928A200268C2D = {
-						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = 8RNSYLW2VB;
-						ProvisioningStyle = Automatic;
-						TestTargetID = 4CC565311E1928A200268C2D;
 					};
 				};
 			};
-			buildConfigurationList = 4CC5652D1E1928A200268C2D /* Build configuration list for PBXProject "Rita#1" */;
+			buildConfigurationList = 4CC565671E1929B000268C2D /* Build configuration list for PBXProject "Rita#1" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -218,99 +109,54 @@
 				en,
 				Base,
 			);
-			mainGroup = 4CC565291E1928A200268C2D;
-			productRefGroup = 4CC565331E1928A200268C2D /* Products */;
+			mainGroup = 4CC565631E1929B000268C2D;
+			productRefGroup = 4CC5656D1E1929B000268C2D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4CC565311E1928A200268C2D /* Rita#1 */,
-				4CC565451E1928A200268C2D /* Rita#1Tests */,
-				4CC565501E1928A200268C2D /* Rita#1UITests */,
+				4CC5656B1E1929B000268C2D /* Rita#1 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4CC565301E1928A200268C2D /* Resources */ = {
+		4CC5656A1E1929B000268C2D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4CC565401E1928A200268C2D /* LaunchScreen.storyboard in Resources */,
-				4CC5653D1E1928A200268C2D /* Assets.xcassets in Resources */,
-				4CC5653B1E1928A200268C2D /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4CC565441E1928A200268C2D /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4CC5654F1E1928A200268C2D /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				4CC5657A1E1929B000268C2D /* LaunchScreen.storyboard in Resources */,
+				4CC565771E1929B000268C2D /* Assets.xcassets in Resources */,
+				4CC565751E1929B000268C2D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4CC5652E1E1928A200268C2D /* Sources */ = {
+		4CC565681E1929B000268C2D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4CC565381E1928A200268C2D /* ViewController.swift in Sources */,
-				4CC565361E1928A200268C2D /* AppDelegate.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4CC565421E1928A200268C2D /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4CC5654B1E1928A200268C2D /* Rita_1Tests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4CC5654D1E1928A200268C2D /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4CC565561E1928A300268C2D /* Rita_1UITests.swift in Sources */,
+				4CC565721E1929B000268C2D /* ViewController.swift in Sources */,
+				4CC565701E1929B000268C2D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXTargetDependency section */
-		4CC565481E1928A200268C2D /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 4CC565311E1928A200268C2D /* Rita#1 */;
-			targetProxy = 4CC565471E1928A200268C2D /* PBXContainerItemProxy */;
-		};
-		4CC565531E1928A200268C2D /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 4CC565311E1928A200268C2D /* Rita#1 */;
-			targetProxy = 4CC565521E1928A200268C2D /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
-
 /* Begin PBXVariantGroup section */
-		4CC565391E1928A200268C2D /* Main.storyboard */ = {
+		4CC565731E1929B000268C2D /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4CC5653A1E1928A200268C2D /* Base */,
+				4CC565741E1929B000268C2D /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		4CC5653E1E1928A200268C2D /* LaunchScreen.storyboard */ = {
+		4CC565781E1929B000268C2D /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4CC5653F1E1928A200268C2D /* Base */,
+				4CC565791E1929B000268C2D /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -318,7 +164,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		4CC565581E1928A300268C2D /* Debug */ = {
+		4CC5657C1E1929B000268C2D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -368,7 +214,7 @@
 			};
 			name = Debug;
 		};
-		4CC565591E1928A300268C2D /* Release */ = {
+		4CC5657D1E1929B000268C2D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -411,7 +257,7 @@
 			};
 			name = Release;
 		};
-		4CC5655B1E1928A300268C2D /* Debug */ = {
+		4CC5657F1E1929B000268C2D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -424,7 +270,7 @@
 			};
 			name = Debug;
 		};
-		4CC5655C1E1928A300268C2D /* Release */ = {
+		4CC565801E1929B000268C2D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -434,104 +280,30 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "app.moe76.Rita-1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-			};
-			name = Release;
-		};
-		4CC5655E1E1928A300268C2D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = 8RNSYLW2VB;
-				INFOPLIST_FILE = "Rita#1Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "app.moe76.Rita-1Tests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Rita#1.app/Rita#1";
-			};
-			name = Debug;
-		};
-		4CC5655F1E1928A300268C2D /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = 8RNSYLW2VB;
-				INFOPLIST_FILE = "Rita#1Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "app.moe76.Rita-1Tests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Rita#1.app/Rita#1";
-			};
-			name = Release;
-		};
-		4CC565611E1928A300268C2D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = 8RNSYLW2VB;
-				INFOPLIST_FILE = "Rita#1UITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "app.moe76.Rita-1UITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_TARGET_NAME = "Rita#1";
-			};
-			name = Debug;
-		};
-		4CC565621E1928A300268C2D /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = 8RNSYLW2VB;
-				INFOPLIST_FILE = "Rita#1UITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "app.moe76.Rita-1UITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_TARGET_NAME = "Rita#1";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4CC5652D1E1928A200268C2D /* Build configuration list for PBXProject "Rita#1" */ = {
+		4CC565671E1929B000268C2D /* Build configuration list for PBXProject "Rita#1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4CC565581E1928A300268C2D /* Debug */,
-				4CC565591E1928A300268C2D /* Release */,
+				4CC5657C1E1929B000268C2D /* Debug */,
+				4CC5657D1E1929B000268C2D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4CC5655A1E1928A300268C2D /* Build configuration list for PBXNativeTarget "Rita#1" */ = {
+		4CC5657E1E1929B000268C2D /* Build configuration list for PBXNativeTarget "Rita#1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4CC5655B1E1928A300268C2D /* Debug */,
-				4CC5655C1E1928A300268C2D /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-		};
-		4CC5655D1E1928A300268C2D /* Build configuration list for PBXNativeTarget "Rita#1Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				4CC5655E1E1928A300268C2D /* Debug */,
-				4CC5655F1E1928A300268C2D /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-		};
-		4CC565601E1928A300268C2D /* Build configuration list for PBXNativeTarget "Rita#1UITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				4CC565611E1928A300268C2D /* Debug */,
-				4CC565621E1928A300268C2D /* Release */,
+				4CC5657F1E1929B000268C2D /* Debug */,
+				4CC565801E1929B000268C2D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4CC5652A1E1928A200268C2D /* Project object */;
+	rootObject = 4CC565641E1929B000268C2D /* Project object */;
 }

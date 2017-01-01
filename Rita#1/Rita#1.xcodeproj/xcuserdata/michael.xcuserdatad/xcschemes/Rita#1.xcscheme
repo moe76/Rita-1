@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4CC565311E1928A200268C2D"
+               BlueprintIdentifier = "4CC5656B1E1929B000268C2D"
                BuildableName = "Rita#1.app"
                BlueprintName = "Rita#1"
                ReferencedContainer = "container:Rita#1.xcodeproj">
@@ -28,31 +28,11 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4CC565451E1928A200268C2D"
-               BuildableName = "Rita#1Tests.xctest"
-               BlueprintName = "Rita#1Tests"
-               ReferencedContainer = "container:Rita#1.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4CC565501E1928A200268C2D"
-               BuildableName = "Rita#1UITests.xctest"
-               BlueprintName = "Rita#1UITests"
-               ReferencedContainer = "container:Rita#1.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4CC565311E1928A200268C2D"
+            BlueprintIdentifier = "4CC5656B1E1929B000268C2D"
             BuildableName = "Rita#1.app"
             BlueprintName = "Rita#1"
             ReferencedContainer = "container:Rita#1.xcodeproj">
@@ -75,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4CC565311E1928A200268C2D"
+            BlueprintIdentifier = "4CC5656B1E1929B000268C2D"
             BuildableName = "Rita#1.app"
             BlueprintName = "Rita#1"
             ReferencedContainer = "container:Rita#1.xcodeproj">
@@ -94,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4CC565311E1928A200268C2D"
+            BlueprintIdentifier = "4CC5656B1E1929B000268C2D"
             BuildableName = "Rita#1.app"
             BlueprintName = "Rita#1"
             ReferencedContainer = "container:Rita#1.xcodeproj">
